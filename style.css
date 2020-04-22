@@ -1,0 +1,11 @@
+.etchgrid{
+    background-color: white;
+}
+
+#gridholder{
+    display: grid;
+    width: 960px;
+    border: 8px solid black;
+}
+
+
